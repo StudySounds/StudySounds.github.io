@@ -61,3 +61,7 @@ opacity: 0.8 !important;
   color: #10a870 !important;
   background-color: transparent;
 }
+
+.text-primary {
+  color: #10a870;
+}
