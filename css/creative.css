@@ -414,3 +414,9 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+.portfolio-box-caption:hover {
+background: #10a870 !important;
+opacity: 0.8 !important;
+}
+
