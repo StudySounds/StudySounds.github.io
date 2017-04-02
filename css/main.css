@@ -62,6 +62,19 @@ opacity: 0.8 !important;
   background-color: transparent;
 }
 
-.text-primary {
-  color: #10a870;
+.fa-facebook {
+  color: #2D609B;
+}
+
+.fa-twitter {
+  color: #00C3F3;
+}
+
+.fa-google-plus {
+  color: #d34836;
+}
+
+.fa-whatsapp {
+  color: #34af23;
+}
 }
