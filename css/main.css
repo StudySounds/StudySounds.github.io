@@ -29,3 +29,8 @@ hr {
   font-weight: 700;
   text-transform: uppercase;
 }
+
+.portfolio-box-caption:hover {
+background: #10a870 !important;
+opacity: 0.8 !important;
+}
