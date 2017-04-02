@@ -280,9 +280,7 @@ header .header-content .header-content-inner p {
 .call-to-action h2 {
   margin: 0 auto 20px;
 }
-.text-primary {
-  color: #10a870;
-}
+
 .no-gutter > [class*='col-'] {
   padding-right: 0;
   padding-left: 0;
@@ -420,19 +418,19 @@ background: #10a870 !important;
 opacity: 0.8 !important;
 }
 
-.fa-facebook {
+.textprimary.fa-facebook {
   color: #2D609B;
 }
 
-.fa-twitter {
+.textprimary.fa-twitter {
   color: #00C3F3;
 }
 
-.fa-google-plus {
+.textprimary.fa-google-plus {
   color: #d34836;
 }
 
-.fa-whatsapp {
+.textprimary.fa-whatsapp {
   color: #34af23;
 }
 
